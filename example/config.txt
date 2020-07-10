@@ -1,0 +1,2 @@
+Prefix plugins/UNOISE/example/
+Plugin UNOISE inputfile unique.fasta outputfile output.unoise
